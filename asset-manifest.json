@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://danyelvictor.github.io/csb-wthm3/static/js/main.fd3131d9.chunk.js",
+    "main.js.map": "https://danyelvictor.github.io/csb-wthm3/static/js/main.fd3131d9.chunk.js.map",
+    "runtime-main.js": "https://danyelvictor.github.io/csb-wthm3/static/js/runtime-main.8bdfec17.js",
+    "runtime-main.js.map": "https://danyelvictor.github.io/csb-wthm3/static/js/runtime-main.8bdfec17.js.map",
+    "static/js/2.faa765ef.chunk.js": "https://danyelvictor.github.io/csb-wthm3/static/js/2.faa765ef.chunk.js",
+    "static/js/2.faa765ef.chunk.js.map": "https://danyelvictor.github.io/csb-wthm3/static/js/2.faa765ef.chunk.js.map",
+    "index.html": "https://danyelvictor.github.io/csb-wthm3/index.html",
+    "static/js/2.faa765ef.chunk.js.LICENSE.txt": "https://danyelvictor.github.io/csb-wthm3/static/js/2.faa765ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bdfec17.js",
+    "static/js/2.faa765ef.chunk.js",
+    "static/js/main.fd3131d9.chunk.js"
+  ]
+}
